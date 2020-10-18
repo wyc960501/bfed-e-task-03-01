@@ -100,3 +100,19 @@ let vm = new Vue({
     - 如果老节点的数组先遍历完(oldStartIdx > oldEndIdx)，说明新节点有剩余，把剩余节点批量插入到右边
 
     - 如果新节点的数组先遍历完(newStartIdx > newEndIdx)，说明老节点有剩余，把剩余节点批量删除
+    
+  ## 编程题
+  
+  #### 1、模拟 VueRouter 的 hash 模式的实现，实现思路和 History 模式类似，把 URL 中的 # 后面的内容作为路由的地址，可以通过 hashchange 事件监听路由地址的变化。
+  
+  https://github.com/wyc960501/bfed-e-task-03-01/tree/master/code/03-01-02-05-vue-router/my-vuerouter
+  
+  #### 2、在模拟 Vue.js 响应式源码的基础上实现 v-html 指令，以及 v-on 指令。
+  
+  https://github.com/wyc960501/bfed-e-task-03-01/tree/master/code/03-01-03-06-vue-reactivity/minivue
+  
+  #### 参考 Snabbdom 提供的电影列表的示例，利用Snabbdom 实现类似的效果
+  
+  https://github.com/wyc960501/bfed-e-task-03-01/tree/master/code/03-01-04-01-vue-virtual-dom/snabbdom-demo
+  
+  
