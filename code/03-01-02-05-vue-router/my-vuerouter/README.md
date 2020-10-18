@@ -1,4 +1,4 @@
-# pro-one-vuerouter
+# my-vuerouter
 
 ## Project setup
 ```
