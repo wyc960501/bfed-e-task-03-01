@@ -111,7 +111,7 @@ let vm = new Vue({
   
   https://github.com/wyc960501/bfed-e-task-03-01/tree/master/code/03-01-03-06-vue-reactivity/minivue
   
-  #### 参考 Snabbdom 提供的电影列表的示例，利用Snabbdom 实现类似的效果
+  #### 3、参考 Snabbdom 提供的电影列表的示例，利用Snabbdom 实现类似的效果
   
   https://github.com/wyc960501/bfed-e-task-03-01/tree/master/code/03-01-04-01-vue-virtual-dom/snabbdom-demo
   
